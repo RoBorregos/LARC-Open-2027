@@ -1,407 +1,126 @@
 
 # Control — LARC Open 2027
 
-## 1. Información general
+## Información general
 
 **Proyecto:** LARC Open 2027  
 **Organización:** RoBorregos  
 **Área:** Software — Control  
-**Responsable principal:** Denis David Cerón Guzmán  
+**Responsable:** Denis David Cerón Guzmán  
 **Colaborador:** Ricardo Flores García  
 **Project Manager:** Salette Morales Prieto  
+**Periodo:** 2026–2027
 
 ---
 
-## 2. Descripción del área
+## 1. Descripción del área
 
-El área de Control es responsable del desarrollo, mantenimiento y mejora de los sistemas que permiten controlar el movimiento y funcionamiento del robot de LARC Open 2027.
+El área de Control es responsable del desarrollo, mantenimiento, integración y validación de los sistemas que permiten controlar el movimiento y funcionamiento del robot de LARC Open.
 
-Su propósito es garantizar que el robot pueda ejecutar movimientos de manera precisa y confiable, utilizando correctamente la información proporcionada por los sensores, los algoritmos de control y el sistema de Visión Artificial.
+Su trabajo comprende el control de motores y actuadores, la odometría, el procesamiento de información de sensores, los algoritmos de control y la comunicación entre los programas del robot.
 
-Entre sus principales campos de trabajo se encuentran:
+El objetivo es desarrollar un sistema de control preciso, confiable y compatible con los componentes mecánicos, electrónicos y de visión artificial del robot, aprovechando los desarrollos de generaciones anteriores.
 
-- Control de motores y actuadores.
-- Regulación de velocidad, posición y orientación.
-- Odometría y estimación del movimiento.
-- Lectura y calibración de sensores.
-- Implementación y evaluación de algoritmos de control.
-- Comunicación entre programas y componentes.
-- Integración con Visión Artificial.
-- Diagnóstico de problemas de funcionamiento.
-- Pruebas y validación del sistema.
+Control forma parte del área de Software, integrada por Denis David Cerón Guzmán y Ricardo Flores García.
 
-### Organización de Software
+Aunque Denis será el responsable principal de Control y Ricardo de Visión Artificial, ambos participarán en el desarrollo de las dos especialidades y en su integración.
 
-El equipo de Software se divide en dos especialidades principales:
+## 2. Responsabilidades generales
 
-| Especialidad | Responsable principal | Colaborador |
-|---|---|---|
-| Visión Artificial | Ricardo Flores García | Denis David Cerón Guzmán |
-| Control | Denis David Cerón Guzmán | Ricardo Flores García |
-| Integración | Ricardo y Denis | Responsabilidad compartida |
+- Analizar el código y los sistemas de control existentes.
+- Estudiar el funcionamiento de motores y actuadores.
+- Comprender y desarrollar algoritmos de control.
+- Revisar los sistemas de odometría y estimación de movimiento.
+- Analizar la lectura y calibración de sensores.
+- Investigar problemas relacionados con errores y offsets de sensores.
+- Revisar la arquitectura y comunicación entre programas.
+- Evaluar el funcionamiento y aplicación de FreeRTOS, cuando corresponda.
+- Investigar posibles mejoras en precisión, estabilidad y respuesta del robot.
+- Coordinar con Visión Artificial la comunicación entre ambos sistemas.
+- Colaborar con Electrónica en la integración de sensores, motores y controladores.
+- Coordinar con Mecánica las características y limitaciones de movimiento.
+- Realizar pruebas y documentar resultados.
+- Participar en las actividades de Visión Artificial e Integración.
+- Mantener organizada la documentación técnica del sistema.
 
-Esta división tiene fines organizacionales y no representa una separación rígida del trabajo.
+Las metas específicas, entregables y fechas de cumplimiento se establecerán en los compromisos del área y se administrarán mediante GitHub Issues y GitHub Projects.
 
-**Ambos integrantes deberán participar en Visión Artificial y Control**, comprender el funcionamiento general del software y colaborar en las decisiones técnicas.
+## 3. Organización de archivos
 
----
+| Recurso | Ubicación |
+|---|---|
+| Código fuente de Control | Repositorio GitHub — Ubicación pendiente de definir |
+| Documentación técnica de Control | Este README y documentación del código |
+| Documentación de Visión Artificial | `Software/Vision/README.md` |
+| Documentación de Integración | `Software/Integracion/README.md` |
+| Carta de compromiso | Enlace pendiente de definir |
+| Actividades y entregables | GitHub Issues |
+| Planeación y cronograma | GitHub Projects |
 
-## 3. Responsabilidades generales
+## 4. Documentación y control de versiones
 
-### 3.1. Análisis del sistema heredado
+El código y la documentación de Control deberán mantenerse organizados dentro del repositorio, permitiendo comprender el funcionamiento de los programas e identificar las modificaciones realizadas.
 
-El desarrollo de Control deberá partir de la comprensión del sistema utilizado por LARC Open 2026.
+### Consideraciones generales
 
-Esto implica:
+- Utilizar nombres claros para archivos, funciones y variables.
+- Documentar los algoritmos y módulos principales.
+- Identificar las librerías y dependencias utilizadas.
+- Registrar los parámetros relevantes de control.
+- Documentar los motores, actuadores y sensores utilizados.
+- Mantener identificadas las versiones del código.
+- Registrar los cambios importantes en los programas.
+- Documentar procedimientos de calibración.
+- Realizar pruebas antes de integrar modificaciones.
+- Registrar problemas, soluciones y resultados.
+- Evitar archivos duplicados o desactualizados.
+- Procurar que ambos integrantes comprendan los cambios relevantes.
 
-- Revisar el código heredado del equipo anterior.
-- Comprender la arquitectura general del software.
-- Identificar los algoritmos de control utilizados.
-- Analizar el funcionamiento de motores y actuadores.
-- Estudiar el sistema de odometría.
-- Identificar los sensores y su funcionamiento.
-- Revisar la comunicación entre los programas.
-- Identificar problemas, limitaciones y funcionalidades existentes.
-- Reconocer las soluciones que pueden conservarse o reutilizarse.
+Las modificaciones importantes deberán registrarse en los Issues correspondientes y relacionarse con la evidencia técnica disponible.
 
-Antes de realizar modificaciones importantes, se deberá comprender su funcionamiento y evaluar la necesidad de implementar cambios.
+## 5. Colaboración entre áreas
 
-### 3.2. Control de movimiento
-
-El área deberá estudiar y desarrollar las herramientas necesarias para controlar el movimiento del robot.
-
-Sus responsabilidades incluyen:
-
-- Analizar el control de motores.
-- Comprender la cinemática del robot.
-- Evaluar el control de velocidad y dirección.
-- Revisar el control de posición y orientación.
-- Implementar o mejorar algoritmos de control cuando sea necesario.
-- Evaluar la precisión y estabilidad de los movimientos.
-- Identificar errores y proponer soluciones.
-- Coordinar con Mecánica las limitaciones físicas del robot.
-
-### 3.3. Sensores y odometría
-
-El sistema deberá utilizar correctamente la información proporcionada por los sensores para estimar su estado y movimiento.
-
-Se deberá trabajar en:
-
-- Identificación de sensores utilizados.
-- Lectura y procesamiento de datos.
-- Calibración de sensores.
-- Identificación de errores y offsets.
-- Comprensión del funcionamiento de la odometría.
-- Estimación de posición y orientación.
-- Evaluación de precisión de las mediciones.
-- Investigación de problemas relacionados con el BNO.
-- Coordinación con Electrónica para diagnosticar fallas.
-
-### 3.4. Arquitectura y comunicación
-
-El equipo deberá comprender cómo se organizan y comunican los programas del robot.
-
-Esto incluye:
-
-- Estructura general del código.
-- Lenguajes de programación.
-- Librerías y dependencias.
-- Comunicación entre programas.
-- Gestión de tareas y procesos.
-- Manejo de errores.
-- Investigación de FreeRTOS y su aplicación, cuando corresponda.
-- Intercambio de información entre Visión y Control.
-
-### 3.5. Investigación y desarrollo
-
-Las propuestas de mejora deberán responder a necesidades identificadas durante el análisis del sistema y las pruebas.
-
-Se deberá:
-
-- Investigar posibles soluciones técnicas.
-- Consultar documentación confiable.
-- Comparar alternativas.
-- Considerar las capacidades del hardware.
-- Evaluar ventajas y limitaciones.
-- Justificar las modificaciones propuestas.
-- Coordinar decisiones que afecten a otras áreas.
-
-### 3.6. Pruebas y validación
-
-El funcionamiento de los sistemas desarrollados deberá comprobarse mediante pruebas.
-
-Se deberán considerar:
-
-- Pruebas de motores y actuadores.
-- Pruebas de lectura de sensores.
-- Pruebas de calibración.
-- Evaluación de odometría.
-- Pruebas de precisión y estabilidad.
-- Pruebas de comunicación con Visión Artificial.
-- Pruebas de integración con Electrónica.
-- Pruebas con el robot físico.
-- Registro y análisis de resultados.
-
-Las modificaciones deberán validarse antes de integrarse definitivamente al sistema.
-
----
-
-## 4. Organización de archivos
-
-El área de Software se organizará dentro del repositorio de LARC Open 2027 mediante tres carpetas principales.
-
-```text
-Software/
-├── Vision/
-│   └── README.md
-├── Control/
-│   └── README.md
-└── Integracion/
-    └── README.md
-```
-
-### Control
-
-Esta carpeta corresponde a la especialidad de Control.
-
-Su README contiene:
-
-- Descripción del área.
-- Responsabilidades técnicas.
-- Metodología general de trabajo.
-- Lineamientos de documentación.
-- Coordinación con otras áreas.
-- Reglas de seguimiento.
-- Responsables del área.
+El desarrollo de Control deberá mantenerse coordinado con Visión Artificial, Electrónica y Mecánica.
 
 ### Visión Artificial
 
-Contiene la información correspondiente al sistema de visión del robot.
+La colaboración con Visión Artificial permitirá integrar la información obtenida del entorno con los algoritmos de control y navegación del robot.
 
-**Responsable principal:** Ricardo Flores García.
+Denis y Ricardo deberán coordinar la comunicación entre programas, las entradas y salidas de información y las pruebas de integración.
 
-### Integración
+Ambos participarán en el desarrollo de Control y Visión Artificial, independientemente de su responsabilidad principal.
 
-Contiene los lineamientos generales relacionados con la comunicación y funcionamiento conjunto de Visión y Control.
+### Electrónica
 
-**Responsables:** Ricardo Flores García y Denis David Cerón Guzmán.
+La colaboración con Electrónica permitirá asegurar la compatibilidad entre el software de control y los componentes electrónicos, sensores, motores y actuadores.
 
-### Código fuente
+Los problemas relacionados con conexiones, comunicación, calibración y funcionamiento de sensores deberán investigarse de manera conjunta.
 
-El código del robot deberá mantenerse versionado dentro del repositorio, respetando una estructura acordada por el equipo.
+### Mecánica
 
-Los README funcionan como documentos de referencia y no sustituyen el código fuente ni el seguimiento mediante Issues.
+La colaboración con Mecánica permitirá considerar la configuración física del robot, las características de movimiento, los mecanismos y las limitaciones mecánicas.
 
----
+Las modificaciones que afecten la cinemática o el comportamiento del robot deberán coordinarse para mantener la compatibilidad entre los sistemas.
 
-## 5. Documentación y control de versiones
+Las decisiones que afecten a varias áreas deberán discutirse en conjunto para evitar incompatibilidades durante la integración.
 
-La documentación deberá permitir que los integrantes actuales y futuros comprendan el funcionamiento del sistema y puedan continuar su desarrollo.
+## 6. Seguimiento del área
 
-### 5.1. Documentación técnica
+Las actividades, entregables y evidencias se administrarán mediante GitHub Issues y GitHub Projects.
 
-Se deberá mantener información sobre:
+Las actividades relacionadas con Control podrán identificarse mediante la categoría `software/control`.
 
-**Arquitectura del sistema**
-- Estructura del programa.
-- Función de los módulos.
-- Flujo de información.
-- Relación con otros sistemas.
+Denis será el responsable principal de dar seguimiento a esta especialidad, mientras que Ricardo colaborará en su desarrollo y revisión.
 
-**Motores, actuadores y sensores**
-- Componentes utilizados.
-- Especificaciones relevantes.
-- Interfaces y protocolos.
-- Configuraciones.
-- Procedimientos de calibración.
+Ambos integrantes deberán participar en las decisiones técnicas y mantener comunicación constante sobre los cambios que afecten al sistema.
 
-**Algoritmos de control**
-- Objetivo de los algoritmos.
-- Funcionamiento general.
-- Entradas y salidas.
-- Parámetros relevantes.
-- Limitaciones conocidas.
+Los avances se revisarán durante las juntas generales de los miércoles a las 5:00 p. m.
 
-**Odometría**
-- Método de estimación utilizado.
-- Sensores involucrados.
-- Parámetros y cálculos.
-- Errores identificados.
-- Métodos de validación.
-
-**Problemas y soluciones**
-- Descripción de problemas.
-- Posibles causas.
-- Soluciones implementadas.
-- Resultados de las pruebas.
-- Referencias a Issues.
-
-### 5.2. Control de versiones
-
-Para mantener un desarrollo organizado:
-
-- Registrar los cambios mediante Git.
-- Utilizar nombres descriptivos en los commits.
-- Trabajar en ramas cuando corresponda.
-- Evitar modificar código funcional sin comprender sus consecuencias.
-- Realizar pruebas antes de integrar cambios.
-- Revisar los cambios importantes entre ambos integrantes.
-- Mantener actualizado el código del repositorio.
-- Documentar modificaciones relevantes.
-
-### 5.3. Evidencia de trabajo
-
-Las actividades técnicas deberán contar con evidencia según corresponda.
-
-Puede incluir:
-
-- Código desarrollado.
-- Resultados de pruebas.
-- Capturas de pantalla.
-- Registros de funcionamiento.
-- Diagramas.
-- Mediciones.
-- Análisis técnico.
-- Pull Requests.
-
-La evidencia deberá relacionarse con los Issues correspondientes para facilitar el seguimiento.
+Este README describe el funcionamiento general del área y solamente deberá actualizarse cuando existan modificaciones importantes en su organización o documentación.
 
 ---
 
-## 6. Colaboración entre áreas
-
-El desarrollo de Control requiere coordinación constante con las demás áreas del proyecto.
-
-### 6.1. Visión Artificial
-
-**Responsable principal:** Ricardo Flores García.
-
-- Coordinar el intercambio de información entre ambos sistemas.
-- Definir las entradas y salidas necesarias.
-- Revisar la compatibilidad entre programas.
-- Participar en decisiones técnicas compartidas.
-- Realizar pruebas de comunicación.
-- Identificar y corregir problemas de integración.
-
-Ricardo y Denis deberán comprender ambos sistemas y colaborar en su desarrollo, independientemente de su especialidad principal.
-
-### 6.2. Electrónica
-
-**Responsable:** Bernardo Guerrero Osorio.
-
-- Revisar conexiones de motores y sensores.
-- Comprender las características del hardware.
-- Verificar protocolos de comunicación.
-- Coordinar procedimientos de calibración.
-- Investigar problemas relacionados con el BNO.
-- Diagnosticar fallas de hardware y software.
-- Participar en pruebas de integración.
-
-### 6.3. Mecánica
-
-**Responsable:** Katia Iveth Uribe Briones.
-
-- Comprender la configuración física del robot.
-- Identificar limitaciones mecánicas.
-- Revisar las características de movimiento.
-- Considerar los efectos de las modificaciones mecánicas sobre Control.
-- Coordinar pruebas de movimiento.
-- Evaluar el comportamiento del robot físico.
-
-### 6.4. Project Manager
-
-**Responsable:** Salette Morales Prieto.
-
-- Coordinar la organización general del proyecto.
-- Dar seguimiento a las actividades.
-- Facilitar la comunicación entre áreas.
-- Identificar dependencias y necesidades.
-- Revisar el cumplimiento de compromisos.
-- Apoyar en la resolución de problemas organizacionales.
-- Mantener el seguimiento general en GitHub Projects.
-
----
-
-## 7. Seguimiento del área
-
-Las actividades de Control se administrarán mediante GitHub Issues y GitHub Projects.
-
-### 7.1. GitHub Issues
-
-**Categoría:** `software/control`
-
-Los Issues se utilizarán para:
-
-- Asignar actividades técnicas.
-- Dar seguimiento a investigaciones.
-- Registrar errores.
-- Proponer mejoras.
-- Documentar problemas.
-- Registrar pruebas.
-- Solicitar apoyo de otras áreas.
-
-Cada Issue deberá incluir, cuando corresponda:
-
-1. Descripción de la actividad.
-2. Objetivo.
-3. Responsable o responsables.
-4. Fecha de entrega.
-5. Criterios de aceptación.
-6. Evidencia esperada.
-7. Dependencias.
-
-### 7.2. GitHub Projects
-
-El tablero general de LARC Open 2027 permitirá visualizar:
-
-- Actividades pendientes.
-- Actividades en desarrollo.
-- Actividades en revisión.
-- Actividades completadas.
-- Responsables.
-- Prioridades.
-- Fechas de entrega.
-
-### 7.3. Responsabilidades de los integrantes
-
-**Denis — Responsable principal de Control**
-
-- Coordinar el desarrollo técnico de Control.
-- Dar seguimiento a las actividades de su especialidad.
-- Mantener organizada la información técnica.
-- Comunicar avances y problemas.
-- Participar en las decisiones técnicas.
-- Colaborar en Visión Artificial e Integración.
-- Revisar código y participar en pruebas.
-
-**Ricardo — Colaborador en Control**
-
-- Participar en el análisis y desarrollo.
-- Apoyar en la revisión de algoritmos.
-- Colaborar en pruebas.
-- Compartir conocimientos técnicos.
-- Coordinar la integración con Visión Artificial.
-- Participar en decisiones y revisiones importantes.
-
-### 7.4. Compromisos compartidos
-
-Ambos integrantes deberán:
-
-- Conocer el funcionamiento general del software.
-- Participar en Visión y Control.
-- Compartir conocimientos.
-- Comunicar problemas oportunamente.
-- Mantener la documentación organizada.
-- Registrar y actualizar sus Issues.
-- Colaborar en pruebas de integración.
-- Participar en las revisiones técnicas.
-- Cumplir los compromisos acordados.
-
-**Importante:** Tener un responsable principal por especialidad permite organizar el seguimiento, pero no significa que las actividades o los conocimientos pertenezcan exclusivamente a una persona.
-
----
-
-## 8. Un mensaje de tu PM
+## Mensaje de la PM — Para Denis
 
 Holaaaa Denis, jajajaj.
 
@@ -475,3 +194,4 @@ Muchísimo éxito, hermano. Espero que este proyecto te deje grandes aprendizaje
 
 **Salette Morales Prieto**  
 *Project Manager — LARC Open 2027*
+
