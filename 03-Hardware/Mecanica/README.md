@@ -83,33 +83,60 @@ No será necesario modificar este README después de cada junta, ya que su prop�
 
 ---
 
-## 7. Un mensaje de tu PM
 
-Katia, ¿cómo estás?
+## Mensaje de la PM — Para Katia
 
-Este es un mensaje de parte de tu PM y, siendo sincera, también es una manera de asegurarme de que todos lean sus README jajajaja.
+Holaaaa Katia, jajajaja.
 
-La verdad es que agregué esta sección porque quería que cada área tuviera su espacio bien organizado, pero también quise aprovecharla para dejarte un pequeño pedazo de sabiduría antes de comenzar bien todo este camino.
+Primero que nada, espero que hayas leído todo tu README y no te hayas saltado directamente hasta acá, porque justamente una de las razones por las que estoy escribiendo estas cartas es para asegurarme de que sí los lean JAJAJAJA.
 
-Primero que nada, quiero que sepas que admiro mucho el esfuerzo que has hecho para llegar hasta aquí. Sé que no ha sido sencillo y que eres una mujer que trabaja muchísimo por las cosas que quiere. En muchos aspectos me veo reflejada en ti, y creo que por eso quería decirte esto.
+Pero bueno, también quería aprovechar para dejarles un pequeño pedacito de mi experiencia. Antes de empezar, quiero aclararte algo: nada de lo que te voy a decir es porque piense que haces las cosas mal o porque quiera darte un sermón. Son simplemente cosas que he aprendido, muchas veces a la mala jajaja, y que me hubiera gustado que alguien me dijera antes.
 
-Hay algo que he ido aprendiendo y que me hubiera gustado escuchar antes: mientras más dejemos que la ansiedad tome nuestras decisiones, más fácil será equivocarnos. Y te lo digo porque me pasa también. Nos parecemos mucho en eso. A veces esa misma ansiedad, esa intensidad y hasta esa obsesión por hacer las cosas bien son las que nos impulsan a sacar adelante proyectos increíbles. Pero también tenemos que aprender a reconocer cuándo nos están ayudando y cuándo nos están haciendo cargar con más de lo necesario.
+Contigo me pasa algo curioso, porque en muchas cosas me veo reflejada en ti. Admiro muchísimo lo trabajadora que eres y las ganas que tienes de hacer las cosas bien. Sé que has pasado por muchas cosas para llegar hasta aquí, y algo que siempre he reconocido de ti es que, cuando realmente quieres algo, buscas la manera de conseguirlo.
 
-Ahorita eres parte de un equipo, y antes de cualquier responsabilidad técnica, quiero que recuerdes eso. Hay personas que dependen de ti, sí, pero tú también puedes y debes depender de ellas. No tienes que resolverlo todo sola ni demostrar constantemente que puedes con absolutamente todo.
+Y justamente por eso quería compartirte algo que sigo aprendiendo hasta el día de hoy.
 
-Hoy son tus compañeros de trabajo, pero de verdad espero que con el tiempo también se conviertan en grandes amigos. Porque, al final, una de las cosas más bonitas que podemos llevarnos de estos proyectos no son solamente los resultados, sino también las personas que conocemos durante el camino.
+A veces somos nuestras peores enemigas jajajaja. Nos preocupamos tanto por que las cosas salgan bien, por no equivocarnos y por cumplir con todo, que terminamos haciendo los problemas muchísimo más grandes en nuestra cabeza de lo que realmente son.
 
-Otra cosa que quiero decirte es que aprendas a separar las cosas del trabajo de las cosas personales. No siempre será fácil, pero creo que es algo que nos ayuda muchísimo a crecer. Un desacuerdo técnico no tiene por qué convertirse en algo personal, y un error dentro del proyecto jamás define quién eres ni todo lo que vales.
+Y ojo, no te digo que esa intensidad sea algo malo. Creo que muchas veces es precisamente lo que nos permite lograr cosas increíbles. Pero también he aprendido que hay una diferencia enorme entre esforzarte porque quieres hacer algo bien y exigirte tanto que terminas sin disfrutar nada de lo que estás haciendo.
 
-Y, sobre todo, quiero que sepas que siempre puedes acercarte a mí. Si tienes alguna preocupación, si algo te está costando trabajo, si necesitas ayuda o simplemente quieres hablar, espero que tengas la confianza de hacerlo. Como tu PM, siempre voy a buscar lo mejor para el equipo, pero también me importa muchísimo que tú estés bien. Y como tu amiga, quiero que sepas que puedes contar conmigo.
+Una de las cosas que más me ha costado aprender es que no todo tiene que salir exactamente como lo imaginamos. A veces las cosas cambian, las personas piensan diferente y los planes simplemente no funcionan. Y eso no significa que hayamos fracasado.
 
-No te digo nada de esto porque crea que tengo todas las respuestas, sino precisamente porque me identifico mucho contigo. Muchas de estas palabras son cosas que yo misma hubiera necesitado escuchar antes de comenzar algunos de mis propios proyectos.
+También quiero recordarte algo: ahora eres parte de un equipo.
 
-Te deseo muchísimo éxito en todo lo que viene. Confía en tus capacidades, aprende de los errores, apóyate en las personas que tienes cerca y no te rindas cuando las cosas se compliquen.
+Sé que suena obvio jajaja, pero a veces se nos olvida lo que realmente significa. Habrá personas que dependan de ti, claro, pero tú también tienes derecho a depender de ellas. No tienes que demostrar constantemente que puedes con absolutamente todo, ni tienes que ser siempre la que encuentra una solución.
 
-Estoy muy feliz de que seas parte de LARC Open y espero que este proyecto te deje muchísimo más que conocimientos de ingeniería.
+Permítete pedir ayuda, equivocarte y aprender de los demás.
 
-Con mucho cariño,
+Y otra cosa que para mí es importantísima: aprende a separar los problemas del proyecto de las personas. No siempre vamos a estar de acuerdo, y habrá momentos en los que alguien piense completamente diferente a ti. Pero un desacuerdo técnico no tiene por qué convertirse en algo personal, así como un error tampoco define qué tan buena ingeniera eres.
+
+Te comparto esto porque yo también he tenido que aprenderlo, y créeme que todavía me falta muchísimo jajajaja.
+
+Y bueno, ahora viene mi parte un poquito sentimental.
+
+**Estoy muy orgullosa de que hayas llegado hasta aquí, Katia.**
+
+Sé que has trabajado muchísimo para conseguir las cosas que quieres, y entrar al equipo representativo de robótica es un logro enorme por sí solo.
+
+A veces, como estamos rodeadas de personas que también consiguieron entrar, se nos hace muy fácil pensar que es algo normal. Pero no lo es. Detrás de cada integrante hay un montón de esfuerzo, sacrificios y experiencias que los llevaron hasta aquí.
+
+Así que nunca dejes que el hecho de estar rodeada de personas igual de capaces te haga olvidar lo capaz que eres tú.
+
+Ya te ganaste tu lugar. No tienes que demostrar todos los días que mereces estar aquí.
+
+Espero de corazón que este proyecto te permita crecer muchísimo, no solamente como ingeniera, sino también como persona. Y sobre todo, espero que las personas con las que hoy compartes un equipo eventualmente se conviertan en grandes amigos.
+
+Porque algo que he aprendido es que, cuando terminan estos proyectos, muchas veces lo que más extrañamos no son los robots, las competencias o las desveladas, sino a las personas con las que compartimos todo eso.
+
+Y por último, quiero que sepas que siempre puedes acercarte conmigo. Si algo te molesta, te preocupa, te cuesta trabajo o simplemente quieres hablar, aquí estoy. Como tu PM voy a buscar lo mejor para el equipo, pero también quiero que sepas que, como tu amiga, me importa muchísimo cómo estás tú.
+
+Y bueno, creo que ya me extendí demasiado jajajaj.
+
+Te quiero mucho, Katia. Confía en ti, disfruta lo que estás construyendo y no olvides darte crédito por todo lo que ya has logrado.
+
+Estoy muy feliz de compartir este proyecto contigo y espero que algún día podamos mirar hacia atrás y sentirnos muy orgullosas de todo lo que hicimos.
+
+**Con mucho cariño,**
 
 **Salette Morales Prieto**  
 *Project Manager — LARC Open 2027*
