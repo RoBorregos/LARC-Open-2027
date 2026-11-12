@@ -83,8 +83,6 @@ No será necesario modificar este README después de cada junta, ya que su prop�
 
 ---
 
-
-
 ## Mensaje de la PM — Para Katia
 
 Holaaaa Katia, jajajaj.
@@ -145,4 +143,5 @@ Me hace muy feliz compartir este proyecto contigo y espero que algún día podam
 
 **Salette Morales Prieto**  
 *Project Manager — LARC Open 2027*
+
 
