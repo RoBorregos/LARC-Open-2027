@@ -22,7 +22,7 @@
 |---|---|---|
 | Salette Morales Prieto | a00844511@tec.mx | +52 1 81 4590 2568 |
 | Katia Iveth Uribe Briones | a01287977@tec.mx | +52 1 81 1923 0399 |
-| Bernardo Guerrero Osorio | a01277508@tec.mx | +52 771 127 094 |
+| Bernardo Guerrero Osorio | a01277508@tec.mx | +52 771 127 0940 |
 | Ricardo Flores García | a01287576@tec.mx | +52 1 81 2465 8895 |
 | Denis David Cerón Guzmán | a01410094@tec.mx | +52 1 833 328 1077 |
 
