@@ -1,296 +1,127 @@
 
 # Visión Artificial — LARC Open 2027
 
-## 1. Información general
+## Información general
 
 **Proyecto:** LARC Open 2027  
 **Organización:** RoBorregos  
 **Área:** Software — Visión Artificial  
-**Responsable principal:** Ricardo Flores García  
+**Responsable:** Ricardo Flores García  
 **Colaborador:** Denis David Cerón Guzmán  
 **Project Manager:** Salette Morales Prieto  
+**Periodo:** 2026–2027
 
 ---
 
-## 2. Objetivo general
+## 1. Descripción del área
 
-Comprender, desarrollar, mantener y mejorar el sistema de visión artificial del robot de LARC Open, buscando que sea capaz de interpretar su entorno de manera confiable y proporcionar información útil para la navegación y toma de decisiones.
+El área de Visión Artificial es responsable del desarrollo, mantenimiento, integración y validación de los sistemas que permiten al robot de LARC Open interpretar su entorno mediante el procesamiento de imágenes.
 
-El desarrollo deberá considerar los requerimientos del reglamento, las características del hardware disponible y la integración con los demás sistemas del robot.
+Su trabajo comprende el análisis de cámaras, algoritmos de detección, procesamiento de imágenes, calibración y comunicación con el sistema de Control.
 
-**Visión Artificial forma parte del área de Software**, por lo que deberá mantener una coordinación constante con Control e Integración.
+El objetivo es desarrollar un sistema de visión confiable y compatible con los requerimientos de la competencia, aprovechando los desarrollos de generaciones anteriores y evaluando posibles mejoras.
 
----
+Visión Artificial forma parte del área de Software, integrada por Ricardo Flores García y Denis David Cerón Guzmán.
 
-## 3. Organización del equipo
+Aunque Ricardo será el responsable principal de Visión y Denis de Control, ambos participarán en el desarrollo de las dos especialidades y en su integración.
 
-| Integrante | Función |
+## 2. Responsabilidades generales
+
+- Analizar el código y el sistema de visión heredado.
+- Estudiar el funcionamiento de las cámaras y dispositivos de captura.
+- Comprender y desarrollar algoritmos de procesamiento de imágenes.
+- Analizar los métodos de detección y reconocimiento utilizados.
+- Revisar las librerías, dependencias y herramientas necesarias.
+- Evaluar la precisión y el rendimiento del sistema.
+- Investigar posibles mejoras en calibración y procesamiento.
+- Coordinar con Control la comunicación entre los sistemas.
+- Colaborar con Electrónica en la compatibilidad de cámaras y conexiones.
+- Coordinar con Mecánica la ubicación física de las cámaras.
+- Realizar pruebas y documentar resultados.
+- Participar en las actividades de Control e Integración.
+- Mantener organizada la documentación técnica del sistema.
+
+Las metas específicas, entregables y fechas de cumplimiento se establecerán en los compromisos del área y se administrarán mediante GitHub Issues y GitHub Projects.
+
+## 3. Organización de archivos
+
+| Recurso | Ubicación |
 |---|---|
-| Ricardo Flores García | Responsable principal de Visión Artificial |
-| Denis David Cerón Guzmán | Colaborador en Visión Artificial y responsable principal de Control |
+| Código fuente de Visión Artificial | Repositorio GitHub — Ubicación pendiente de definir |
+| Documentación técnica de Visión | Este README y documentación del código |
+| Documentación de Control | `Software/Control/README.md` |
+| Documentación de Integración | `Software/Integracion/README.md` |
+| Carta de compromiso | Enlace pendiente de definir |
+| Actividades y entregables | GitHub Issues |
+| Planeación y cronograma | GitHub Projects |
 
-La división entre Visión y Control tiene fines organizacionales y no limita la participación de los integrantes.
+## 4. Documentación y control de versiones
 
-Ambos deberán conocer el funcionamiento general del software, colaborar en el desarrollo y participar en las decisiones técnicas.
+El código y la documentación de Visión Artificial deberán mantenerse organizados dentro del repositorio, permitiendo identificar los cambios realizados y comprender el funcionamiento de los programas.
 
-El responsable principal se encargará de coordinar los avances de su especialidad, mantener organizada la información y comunicar cualquier problema o necesidad al equipo.
+### Consideraciones generales
 
----
+- Utilizar nombres claros para archivos, funciones y variables.
+- Documentar los algoritmos y módulos principales.
+- Identificar las librerías y dependencias utilizadas.
+- Registrar los parámetros relevantes del sistema.
+- Documentar las características y configuraciones de las cámaras.
+- Mantener identificadas las versiones del código.
+- Registrar las modificaciones importantes.
+- Realizar pruebas antes de integrar cambios.
+- Documentar problemas, soluciones y resultados.
+- Evitar archivos duplicados o desactualizados.
+- Procurar que ambos integrantes comprendan los cambios relevantes.
 
-## 4. Alcance técnico
+Las modificaciones importantes deberán registrarse en los Issues correspondientes y relacionarse con la evidencia técnica disponible.
 
-### 4.1. Procesamiento de imágenes
+## 5. Colaboración entre áreas
 
-El sistema de visión deberá contemplar, según las necesidades del robot:
-
-- Captura y procesamiento de imágenes.
-- Identificación de elementos relevantes del entorno.
-- Detección y reconocimiento de objetos.
-- Calibración de cámara.
-- Análisis de condiciones de iluminación.
-- Evaluación de precisión y rendimiento.
-- Optimización del procesamiento de imágenes.
-
-### 4.2. Hardware y software
-
-Se deberán comprender y documentar los componentes y herramientas utilizados para el funcionamiento del sistema.
-
-Esto incluye:
-
-- Cámaras y dispositivos de captura.
-- Lenguajes de programación.
-- Librerías y dependencias.
-- Algoritmos de procesamiento.
-- Interfaces y protocolos de comunicación.
-- Requerimientos de procesamiento y memoria.
-
-### 4.3. Comunicación con Control
-
-Visión Artificial deberá trabajar de manera coordinada con el sistema de Control para asegurar que la información obtenida pueda utilizarse correctamente.
-
-Se deberá considerar:
-
-- Qué información necesita recibir Control.
-- Qué datos proporciona Visión.
-- Cómo se realiza la comunicación entre sistemas.
-- La frecuencia de actualización de la información.
-- El manejo de errores y datos inválidos.
-- La compatibilidad entre los programas.
-
----
-
-## 5. Metodología de trabajo
-
-### 5.1. Comprensión del sistema existente
-
-Antes de implementar modificaciones importantes, se deberá comprender el funcionamiento del código y los componentes existentes.
-
-Esto implica:
-
-- Revisar el código heredado.
-- Identificar la estructura general del programa.
-- Comprender los algoritmos utilizados.
-- Revisar librerías y dependencias.
-- Identificar limitaciones y problemas.
-- Reconocer las funcionalidades que ya funcionan correctamente.
-
-### 5.2. Investigación y desarrollo
-
-Las propuestas de mejora deberán partir de una necesidad identificada.
-
-Se recomienda:
-
-- Consultar documentación técnica confiable.
-- Comparar alternativas de implementación.
-- Considerar los recursos disponibles.
-- Evaluar ventajas y desventajas.
-- Justificar las modificaciones propuestas.
-- Consultar con otros integrantes cuando sea necesario.
-
-### 5.3. Pruebas y validación
-
-Las modificaciones deberán evaluarse mediante pruebas que permitan comprobar su funcionamiento.
-
-Se deberán considerar:
-
-- Pruebas individuales de algoritmos.
-- Pruebas de captura de imágenes.
-- Pruebas de detección y reconocimiento.
-- Evaluación de precisión.
-- Evaluación de tiempos de procesamiento.
-- Pruebas de comunicación con Control.
-- Pruebas de integración con el robot físico.
-
-Las pruebas deberán contar con resultados y evidencia que permitan identificar problemas y evaluar mejoras.
-
----
-
-## 6. Documentación técnica
-
-La documentación de Visión Artificial deberá permitir que cualquier integrante del equipo pueda comprender el funcionamiento del sistema y continuar su desarrollo.
-
-Se deberá mantener información sobre:
-
-### Arquitectura del sistema
-
-- Estructura general del programa.
-- Función de los principales módulos.
-- Flujo de procesamiento de imágenes.
-- Relación con otros sistemas.
-
-### Componentes y herramientas
-
-- Cámara utilizada y sus especificaciones.
-- Librerías y dependencias.
-- Versiones de software.
-- Configuraciones necesarias.
-- Requerimientos para ejecutar los programas.
-
-### Algoritmos
-
-- Descripción de los algoritmos utilizados.
-- Objetivo de cada algoritmo.
-- Entradas y salidas.
-- Parámetros relevantes.
-- Limitaciones conocidas.
-
-### Problemas y soluciones
-
-- Problemas técnicos identificados.
-- Posibles causas.
-- Soluciones implementadas.
-- Resultados obtenidos.
-- Referencias a los Issues correspondientes.
-
-**Nota:** La documentación deberá actualizarse cuando existan cambios técnicos relevantes, evitando duplicar información que ya se encuentre registrada en el código o en GitHub Issues.
-
----
-
-## 7. Coordinación con otras áreas
+El desarrollo de Visión Artificial deberá mantenerse coordinado con Control, Electrónica y Mecánica.
 
 ### Control
 
-**Responsable principal:** Denis David Cerón Guzmán
+La colaboración con Control permitirá definir la información que Visión deberá proporcionar para la navegación y toma de decisiones del robot.
 
-- Establecer las necesidades de comunicación entre Visión y Control.
-- Definir entradas y salidas del sistema.
-- Coordinar modificaciones que afecten a ambos programas.
-- Participar en pruebas de integración.
-- Identificar problemas de compatibilidad.
+Ricardo y Denis deberán coordinar la comunicación entre programas, las entradas y salidas del sistema y las pruebas de integración.
+
+Ambos participarán en el desarrollo de Visión y Control, independientemente de su responsabilidad principal.
 
 ### Electrónica
 
-**Responsable:** Bernardo Guerrero Osorio
+La colaboración con Electrónica permitirá verificar las conexiones, alimentación, interfaces de comunicación y compatibilidad de las cámaras con los componentes electrónicos del robot.
 
-- Revisar las conexiones y requerimientos de las cámaras.
-- Verificar compatibilidad con los componentes electrónicos.
-- Analizar problemas relacionados con alimentación y comunicación.
-- Coordinar pruebas de hardware.
+Los cambios que afecten las conexiones o requerimientos de hardware deberán comunicarse oportunamente.
 
 ### Mecánica
 
-**Responsable:** Katia Iveth Uribe Briones
+La colaboración con Mecánica permitirá considerar la ubicación de las cámaras, su campo de visión, posibles obstrucciones y las condiciones físicas que puedan afectar la captura de imágenes.
 
-- Definir y revisar la ubicación física de las cámaras.
-- Considerar el campo de visión y las posibles obstrucciones.
-- Evaluar vibraciones y condiciones que puedan afectar la captura de imágenes.
-- Coordinar ajustes mecánicos cuando sean necesarios.
+Las modificaciones relacionadas con el montaje de cámaras deberán coordinarse para mantener actualizado el diseño mecánico.
 
----
+Las decisiones que afecten a varias áreas deberán discutirse en conjunto para evitar incompatibilidades durante la integración.
 
-## 8. Organización y seguimiento en GitHub
+## 6. Seguimiento del área
 
-Las actividades de Visión Artificial se administrarán mediante GitHub Issues y GitHub Projects.
+Las actividades, entregables y evidencias se administrarán mediante GitHub Issues y GitHub Projects.
 
-**Categoría de seguimiento:** `software/vision`
+Las actividades relacionadas con Visión podrán identificarse mediante la categoría `software/vision`.
 
-### GitHub Issues
+Ricardo será el responsable principal de dar seguimiento a esta especialidad, mientras que Denis colaborará en su desarrollo y revisión.
 
-Los Issues se utilizarán para:
+Ambos integrantes deberán participar en las decisiones técnicas y mantener comunicación constante sobre los cambios que afecten al sistema.
 
-- Asignar actividades.
-- Dar seguimiento a investigaciones.
-- Registrar errores y problemas.
-- Proponer mejoras.
-- Documentar solicitudes técnicas.
-- Dar seguimiento a pruebas y correcciones.
+Los avances se revisarán durante las juntas generales de los miércoles a las 5:00 p. m.
 
-Cada Issue deberá contar, cuando corresponda, con:
-
-1. Descripción de la actividad.
-2. Objetivo.
-3. Responsable o responsables.
-4. Fecha de entrega.
-5. Criterios de aceptación.
-6. Evidencia o resultado esperado.
-7. Dependencias con otras áreas.
-
-### GitHub Projects
-
-El tablero general de LARC Open 2027 se utilizará para visualizar:
-
-- Actividades pendientes.
-- Actividades en desarrollo.
-- Actividades en revisión.
-- Actividades completadas.
-- Responsables y prioridades.
-- Fechas y avances.
-
-### Revisión de código
-
-Para mantener la calidad y comprensión del software:
-
-- Documentar los cambios importantes.
-- Utilizar nombres descriptivos.
-- Evitar modificar código funcional sin comprender sus consecuencias.
-- Realizar pruebas antes de integrar cambios.
-- Procurar que ambos integrantes revisen y comprendan las modificaciones relevantes.
-- Mantener una comunicación constante sobre decisiones técnicas.
+Este README describe el funcionamiento general del área y solamente deberá actualizarse cuando existan modificaciones importantes en su organización o documentación.
 
 ---
 
-## 9. Responsabilidades generales
-
-### Responsable principal de Visión — Ricardo
-
-- Coordinar el desarrollo técnico de Visión Artificial.
-- Mantener una visión general del funcionamiento del sistema.
-- Organizar y dar seguimiento a las actividades de su especialidad.
-- Promover la documentación técnica.
-- Comunicar problemas, necesidades y avances.
-- Coordinar con Denis las actividades compartidas.
-- Participar también en el desarrollo de Control e Integración.
-- Apoyar en la revisión del código y las pruebas.
-
-### Colaborador — Denis
-
-- Participar en el desarrollo de Visión Artificial.
-- Apoyar en la investigación y análisis del sistema.
-- Colaborar en la implementación y revisión de algoritmos.
-- Participar en pruebas y validación.
-- Mantener coordinación entre Visión y Control.
-- Compartir conocimientos y participar en las decisiones técnicas.
-
-### Responsabilidades compartidas
-
-- Comprender el funcionamiento general del software.
-- Colaborar activamente en ambas especialidades.
-- Mantener una comunicación clara.
-- Documentar decisiones técnicas relevantes.
-- Identificar y comunicar problemas oportunamente.
-- Participar en las pruebas de integración.
-- Compartir conocimientos y apoyar el aprendizaje mutuo.
-- Cumplir los compromisos establecidos en GitHub.
-
-**Importante:** La asignación de responsables busca facilitar la organización y el seguimiento, no establecer una separación rígida de conocimientos o actividades.
-
----
-
-## 10. Mensaje de la PM — Para Ricardo
+## Mensaje de la PM — Para Ricardo
 
 Holaaa Ricardo, jajaja.
 
-Primero que nada, que sepas que estas cartas son mi manera de asegurarme de que hayan leído sus README, porque tengo la ligera sospecha de que voy a tener que recordarles que lo hagan jajajaj.
+Primero que nada, que sepas que estas cartas son mi manera de asegurarme de que hayan leído sus README, porque tengo la ligera sospecha que voy a tener que recordarles que lo hagan jajajaj.
 
 Pero bueno, el chiste es que también quería aprovechar este espacio para motivarlos un poquito y compartirles mi pedacito de sabiduría. Nada de lo que escriba aquí es personal ni significa que piense que vayan a cometer los mismos errores que yo. Simplemente son cosas que he aprendido por lo que me ha tocado vivir y que me hubiera gustado entender antes.
 
@@ -306,9 +137,6 @@ Y créeme que escuchar a los demás, incluso cuando tienen menos experiencia que
 
 También quiero que sepas que no tienes que cargar con todo ni sentir que tienes que resolver cada problema por tu cuenta. Si en algún momento algo te molesta, no estás de acuerdo con alguna decisión o simplemente necesitas hablar de alguna situación del equipo, puedes acercarte conmigo con toda confianza. Prefiero que podamos hablar las cosas a tiempo, aunque sea una conversación incómoda, a que se conviertan en algo más grande.
 
-
-
-
 **Estoy muy orgullosa de que hayas llegado hasta aquí.** No sé exactamente todo lo que te haya tocado vivir o lo que hayas tenido que hacer para entrar al equipo representativo de robótica, pero el simple hecho de haberlo conseguido ya es un mérito enorme.
 
 Creo que a veces, cuando estamos rodeados de personas que han logrado lo mismo que nosotros, empezamos a normalizarlo. Vemos a todos nuestros compañeros dentro del equipo y se nos olvida que estar aquí no es cualquier cosa. Que detrás de cada persona hubo esfuerzo, tiempo, aprendizajes y probablemente más de un momento complicado.
@@ -323,3 +151,4 @@ Y ahora sí, ya acabé jajajaj. Mucho éxito, Ricardo, y gracias por formar part
 
 **Salette Morales Prieto**  
 Project Manager — LARC Open 2027
+
