@@ -87,29 +87,75 @@ Este README describe el funcionamiento general del área y solamente deberá act
 
 
 
-## 7. Un mensaje de tu PM
+## Mensaje de la PM — Para Berni
 
-Berni, ¿cómo estás?
+Holaaaa Berniiii Berni Berni Berni, jajajaj.
 
-Primero que nada, quiero que sepas que puse estos mensajes en los README para asegurarme de que todos tengan una razón para leerlos jajajajaja. Pero bueno, ya que estás aquí, quería aprovechar para decirte unas cosas antes de que comencemos bien este proyecto.
+Antes que nada, espero que sí hayas leído tu README completo y no te hayas venido directamente hasta acá, porque entonces mi estrategia de ponerles cartitas para que lean sus documentos no estaría funcionando JAJAJAJA.
 
-Mientras escribía esto, me acordé mucho de Candidates, de todos esos viernes en la noche y sábados en la madrugada en los que nos acompañaste, incluso durante las semanas más pesadas. Me acuerdo mucho de tu perseverancia y de cómo, a pesar del cansancio y las dificultades, seguías ahí. Y ahora verte formando parte de LARC me da muchísimo gusto.
+Pero bueno, ya que estás aquí, quería aprovechar para escribirte algo.
 
-Quiero darte un consejo que espero que te sirva durante este proyecto: **lo estás haciendo bien. Si te equivocas, estás aprendiendo; si algo te sale bien, reconócetelo también.**
+No sé si te acuerdes de todos esos viernes en la noche y sábados en la madrugada durante Candidates, pero yo sí me acuerdo jajajaja. Me acuerdo de lo cansados que estábamos todos, de las horas que pasábamos ahí y de cómo, a pesar de todo, tú seguías presentándote y echándole ganas.
 
-Algo que he notado de ti es que sueles pedir perdón por muchas cosas, incluso cuando realmente no has hecho nada malo. Y aunque saber disculparse es importante, también tienes que aprender a confiar en lo que sabes y en lo que puedes aportar. No tienes que disculparte por tener dudas, cometer un error o estar aprendiendo algo nuevo.
+Y no sé, me da mucha felicidad pensar que después de todo eso ahora estás aquí, formando parte de LARC.
 
-Yo sé que le sabes, hermano jajaja. Sé que tienes conocimientos, iniciativa y muchas ganas de hacer las cosas bien. Lo único que me gustaría es que tengas más confianza al momento de proponer, experimentar y tomar decisiones. No siempre vas a tener la respuesta correcta a la primera, y está bien.
+Creo que algo que siempre me ha gustado de ti es que eres una persona que realmente intenta hacer las cosas bien. Se nota que te importa lo que haces y que tienes ganas de aprender, incluso cuando algo no te sale a la primera.
 
-Además, recuerda que ahora formas parte de un equipo. Tienes a personas con quienes puedes compartir ideas, pedir ayuda y resolver problemas. Aprovecha eso, porque muchas veces aprendemos más trabajando con otros que intentando resolver absolutamente todo solos.
+Y justamente por eso quería compartirte algo que yo también he ido aprendiendo.
 
-Espero que disfrutes mucho esta etapa, que aprendas un montón y que te lleves buenas experiencias, tanto de la competencia como de las personas con las que vas a trabajar.
+A veces somos muchísimo más duros con nosotros mismos de lo que deberíamos. Nos acordamos perfectamente de cada cosa que hicimos mal, de cada error y de cada momento en el que sentimos que pudimos haberlo hecho mejor, pero se nos olvidan todas las cosas que sí conseguimos.
 
-Me da mucho gusto que hayas llegado hasta aquí y estoy orgullosa de lo que lograste en Candidates. Ahora toca seguir aprendiendo y demostrarte a ti mismo de lo que eres capaz.
+Y siento que tú a veces haces algo parecido jajajaja.
 
-Muchísimo éxito, Berni. Confía más en ti y no tengas miedo de equivocarte.
+Me he dado cuenta de que pides perdón por muchísimas cosas, incluso cuando realmente no hay nada por lo que tengas que disculparte. Y ojo, no quiero que dejes de ser considerado con los demás, porque creo que eso también es algo muy bonito de ti.
 
-**Eres un grande, hermano.**
+Pero sí me gustaría que poco a poco aprendieras a confiar más en ti.
 
-— **Salette Morales Prieto**  
+Que puedas hacer una pregunta sin sentir que estás molestando, dar tu opinión sin pensar que necesariamente estás equivocado y cometer un error sin sentir que tienes que disculparte veinte veces JAJAJAJA.
+
+Porque, Berni, de verdad, no pasa nada.
+
+Estás aquí para aprender, igual que todos nosotros.
+
+Y algo que me hubiera gustado entender antes es que equivocarte no significa que no seas bueno en algo. A veces simplemente significa que estás intentando hacer algo que todavía no sabes hacer, y eso también tiene muchísimo mérito.
+
+No necesitas tener todas las respuestas ni ser el que más sabe del equipo. Lo importante es que tengas las ganas de aprender y la confianza para intentar cosas nuevas, aunque no estés completamente seguro de cómo van a salir.
+
+Yo sé que le sabes, hermano jajajaja, y creo que tienes muchísimo más que aportar de lo que a veces tú mismo reconoces.
+
+También espero que durante este proyecto te permitas disfrutar un poquito más tus logros. Que cuando algo te salga bien no lo pases por alto como si fuera cualquier cosa, y que cuando algo te salga mal no te quedes pensando únicamente en eso.
+
+Porque si algo me dejó Candidates fue darme cuenta de que muchas veces estamos tan concentrados en llegar a una meta que ni siquiera nos detenemos a reconocer todo lo que hemos avanzado.
+
+Y contigo me da muchísimo gusto haber visto parte de ese avance.
+
+Me acuerdo de ti estando ahí durante Candidates, aprendiendo, intentando y aguantando las desveladas, y ahora verte dentro del equipo me hace pensar que todo ese esfuerzo sí te llevó a algún lado.
+
+No sé si tú lo veas de la misma manera, pero a mí sí me parece algo muy bonito.
+
+Y espero que tú también estés orgulloso de ti, porque de verdad tienes razones para estarlo.
+
+No solamente por haber entrado al representativo, sino por todo lo que hiciste antes de conseguirlo. Porque nadie puede quitarte esas horas que invertiste, las cosas que aprendiste ni las veces que decidiste seguir intentando.
+
+Y ahora que ya estás aquí, espero que no sientas que tienes que convertirte de la noche a la mañana en alguien que lo sabe todo.
+
+Date chance de aprender, de hacer preguntas, de equivocarte y hasta de reírte de las cosas que salgan mal jajajaja.
+
+También aprovecha mucho a tus compañeros. Pregúntales cosas, comparte lo que sabes, haz amigos y no tengas miedo de acercarte a los demás. De verdad creo que una de las mejores cosas que te puedes llevar de un equipo como este son las personas que conoces.
+
+Y bueno, ya me extendí un buen JAJAJAJA.
+
+Solamente espero que algún día, cuando recuerdes esta etapa, no pienses únicamente en la competencia o en qué lugar quedaron, sino también en todas las cosas que te atreviste a hacer y que antes pensabas que no podías.
+
+Que puedas ver hacia atrás y darte cuenta de cuánto creciste.
+
+Y si en algún momento las cosas se ponen difíciles, necesitas ayuda o simplemente quieres platicar, sabes que puedes acercarte conmigo. No tienes que sentir que molestas por pedir apoyo, porque para eso también estamos los demás.
+
+Me da mucho gusto tenerte en LARC, Berni. De verdad espero que disfrutes muchísimo este proyecto y que te sorprendas de todo lo que puedes llegar a hacer.
+
+Y por favor, ya no me pidas perdón por todo, hermano JAJAJAJA.
+
+**Eres un grande, Berni. Nunca se te olvide.**
+
+**Salette Morales Prieto**  
 *Project Manager — LARC Open 2027*
