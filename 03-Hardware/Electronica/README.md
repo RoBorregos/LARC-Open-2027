@@ -89,73 +89,67 @@ Este README describe el funcionamiento general del área y solamente deberá act
 
 ## Mensaje de la PM — Para Berni
 
-Holaaaa Berniiii Berni Berni Berni, jajajaj.
+Holaaaa Berniiii, jajajaja.
 
-Antes que nada, espero que sí hayas leído tu README completo y no te hayas venido directamente hasta acá, porque entonces mi estrategia de ponerles cartitas para que lean sus documentos no estaría funcionando JAJAJAJA.
+Primero que nada, que sepas que estas cartas son mi manera de asegurarme de que hayan leído sus README, porque tengo la ligera sospecha de que voy a tener que recordarles que lo hagan JAJAJAJA.
 
-Pero bueno, ya que estás aquí, quería aprovechar para escribirte algo.
+Pero bueno, fuera de eso, también quería aprovechar este espacio para motivarlos un poquito y compartirles mi pedacito de sabiduría. Nada de lo que escriba aquí es personal ni significa que piense que vayan a cometer los mismos errores que yo. Simplemente son cosas que he aprendido de mis propias experiencias y que me hubiera gustado saber antes.
 
-No sé si te acuerdes de todos esos viernes en la noche y sábados en la madrugada durante Candidates, pero yo sí me acuerdo jajajaja. Me acuerdo de lo cansados que estábamos todos, de las horas que pasábamos ahí y de cómo, a pesar de todo, tú seguías presentándote y echándole ganas.
+Bueno Berni, primero quiero decirte que me da muchísimo gusto que estés en LARC. Me acuerdo de Candidates, de todos esos viernes en la noche y sábados en la madrugada en los que estuviste acompañándonos, incluso cuando las semanas estaban pesadísimas jajajaja.
 
-Y no sé, me da mucha felicidad pensar que después de todo eso ahora estás aquí, formando parte de LARC.
+Y algo que sí puedo reconocer de ti es tu perseverancia. Me parece muy admirable que hayas seguido esforzándote durante todo ese proceso y que ahora estés formando parte del equipo.
 
-Creo que algo que siempre me ha gustado de ti es que eres una persona que realmente intenta hacer las cosas bien. Se nota que te importa lo que haces y que tienes ganas de aprender, incluso cuando algo no te sale a la primera.
+La verdad tampoco puedo decir que te conozco muchísimo personalmente, pero sí hay algo que me gustaría compartirte de lo que yo he aprendido.
 
-Y justamente por eso quería compartirte algo que yo también he ido aprendiendo.
+Muchas veces, cuando llegamos a un lugar nuevo, especialmente uno donde estamos rodeados de personas con muchísimo conocimiento, empezamos a cuestionarnos si realmente sabemos lo suficiente o si estamos preparados para estar ahí.
 
-A veces somos muchísimo más duros con nosotros mismos de lo que deberíamos. Nos acordamos perfectamente de cada cosa que hicimos mal, de cada error y de cada momento en el que sentimos que pudimos haberlo hecho mejor, pero se nos olvidan todas las cosas que sí conseguimos.
+Y creo que es algo que a muchos nos pasa, aunque no siempre lo digamos.
 
-Y siento que tú a veces haces algo parecido jajajaja.
+A mí me ha pasado que, por miedo a equivocarme o a no tener la mejor respuesta, termino dudando demasiado de mis propias ideas. Y con el tiempo he aprendido que no necesitamos tener todo resuelto para empezar a aportar algo.
 
-Me he dado cuenta de que pides perdón por muchísimas cosas, incluso cuando realmente no hay nada por lo que tengas que disculparte. Y ojo, no quiero que dejes de ser considerado con los demás, porque creo que eso también es algo muy bonito de ti.
+A veces una pregunta, una idea que parece sencilla o incluso un error termina ayudándonos a encontrar soluciones que no habíamos considerado.
 
-Pero sí me gustaría que poco a poco aprendieras a confiar más en ti.
+Por eso espero que durante este proyecto te permitas experimentar, proponer y participar sin sentir que tienes que tener siempre la respuesta correcta.
 
-Que puedas hacer una pregunta sin sentir que estás molestando, dar tu opinión sin pensar que necesariamente estás equivocado y cometer un error sin sentir que tienes que disculparte veinte veces JAJAJAJA.
+Yo sé que le sabes, hermano JAJAJAJA. Y creo que tienes muchísimo que aportar, pero también muchísimo que aprender, como todos nosotros.
 
-Porque, Berni, de verdad, no pasa nada.
+Algo que también he aprendido es que la confianza no aparece de un día para otro. Se va construyendo con las experiencias, con los errores, con las cosas que salen bien y con aquellas que nos obligan a intentarlo otra vez.
 
-Estás aquí para aprender, igual que todos nosotros.
+No tengas miedo de equivocarte ni de pedir ayuda. Al final, todos estamos aquí para aprender y construir algo juntos.
 
-Y algo que me hubiera gustado entender antes es que equivocarte no significa que no seas bueno en algo. A veces simplemente significa que estás intentando hacer algo que todavía no sabes hacer, y eso también tiene muchísimo mérito.
+Y justamente por eso me gustaría que aprovecharas muchísimo a las personas que tienes a tu alrededor.
 
-No necesitas tener todas las respuestas ni ser el que más sabe del equipo. Lo importante es que tengas las ganas de aprender y la confianza para intentar cosas nuevas, aunque no estés completamente seguro de cómo van a salir.
+A veces nos concentramos tanto en el proyecto, las entregas o las competencias que se nos olvida disfrutar la experiencia de formar parte de un equipo.
 
-Yo sé que le sabes, hermano jajajaja, y creo que tienes muchísimo más que aportar de lo que a veces tú mismo reconoces.
+Convivir con personas que comparten tus intereses, aprender de ellas, compartir lo que sabes y hasta pasar por las dificultades juntos es algo que vale muchísimo la pena.
 
-También espero que durante este proyecto te permitas disfrutar un poquito más tus logros. Que cuando algo te salga bien no lo pases por alto como si fuera cualquier cosa, y que cuando algo te salga mal no te quedes pensando únicamente en eso.
+Espero que durante LARC puedas encontrar no solamente compañeros de trabajo, sino también personas con las que disfrutes pasar el tiempo y que eventualmente puedan convertirse en grandes amigos.
 
-Porque si algo me dejó Candidates fue darme cuenta de que muchas veces estamos tan concentrados en llegar a una meta que ni siquiera nos detenemos a reconocer todo lo que hemos avanzado.
+Porque, al menos por mi experiencia, muchas de las cosas que más recuerdo de mis proyectos no son necesariamente los resultados, sino las personas, las desveladas, las conversaciones y todo lo que aprendimos durante el camino.
 
-Y contigo me da muchísimo gusto haber visto parte de ese avance.
 
-Me acuerdo de ti estando ahí durante Candidates, aprendiendo, intentando y aguantando las desveladas, y ahora verte dentro del equipo me hace pensar que todo ese esfuerzo sí te llevó a algún lado.
+También quiero decirte que estoy muy orgullosa de que hayas llegado hasta aquí, Berni.
 
-No sé si tú lo veas de la misma manera, pero a mí sí me parece algo muy bonito.
+Me da mucho gusto haber visto parte de tu proceso durante Candidates y saber que todo ese esfuerzo te llevó a formar parte del equipo representativo de robótica.
 
-Y espero que tú también estés orgulloso de ti, porque de verdad tienes razones para estarlo.
+A veces, cuando estamos rodeados de personas que consiguieron lo mismo que nosotros, empezamos a normalizar nuestros propios logros. Se nos olvida que para llegar hasta aquí hubo tiempo, esfuerzo y muchas ganas de seguir adelante.
 
-No solamente por haber entrado al representativo, sino por todo lo que hiciste antes de conseguirlo. Porque nadie puede quitarte esas horas que invertiste, las cosas que aprendiste ni las veces que decidiste seguir intentando.
+Y aunque ahora estés rodeado de personas igual de capaces, eso no hace que tu logro sea menos importante.
 
-Y ahora que ya estás aquí, espero que no sientas que tienes que convertirte de la noche a la mañana en alguien que lo sabe todo.
+Espero que nunca pierdas de vista todo lo que hiciste para llegar hasta aquí y que también aprendas a reconocer tus avances, incluso aquellos que parecen pequeños.
 
-Date chance de aprender, de hacer preguntas, de equivocarte y hasta de reírte de las cosas que salgan mal jajajaja.
+No tienes que demostrar constantemente que mereces estar en el equipo. Ya te ganaste tu lugar, y ahora lo que sigue es aprovecharlo, aprender y disfrutar todo lo que venga.
 
-También aprovecha mucho a tus compañeros. Pregúntales cosas, comparte lo que sabes, haz amigos y no tengas miedo de acercarte a los demás. De verdad creo que una de las mejores cosas que te puedes llevar de un equipo como este son las personas que conoces.
+Y si en algún momento tienes alguna preocupación, algo no está funcionando o simplemente necesitas hablar, puedes acercarte conmigo con toda confianza. Como tu PM quiero que podamos tener esa comunicación y que sepas que no tienes que resolver todo por tu cuenta.
 
-Y bueno, ya me extendí un buen JAJAJAJA.
+De verdad espero que este proyecto te deje muchísimo, tanto en conocimientos como en experiencias. Que te atrevas a intentar cosas nuevas, que te sorprendas de lo que eres capaz de hacer y que, cuando termine esta etapa, puedas mirar atrás sintiéndote orgulloso de todo lo que construiste.
 
-Solamente espero que algún día, cuando recuerdes esta etapa, no pienses únicamente en la competencia o en qué lugar quedaron, sino también en todas las cosas que te atreviste a hacer y que antes pensabas que no podías.
+ya terminé JAJAJAJA.
 
-Que puedas ver hacia atrás y darte cuenta de cuánto creciste.
+Muchísimo éxito, Berni. Confía en ti, disfruta esta experiencia y no tengas miedo de aprender sobre la marcha.
 
-Y si en algún momento las cosas se ponen difíciles, necesitas ayuda o simplemente quieres platicar, sabes que puedes acercarte conmigo. No tienes que sentir que molestas por pedir apoyo, porque para eso también estamos los demás.
-
-Me da mucho gusto tenerte en LARC, Berni. De verdad espero que disfrutes muchísimo este proyecto y que te sorprendas de todo lo que puedes llegar a hacer.
-
-Y por favor, ya no me pidas perdón por todo, hermano JAJAJAJA.
-
-**Eres un grande, Berni. Nunca se te olvide.**
+**Eres un grande, hermano.**
 
 **Salette Morales Prieto**  
 *Project Manager — LARC Open 2027*
+
